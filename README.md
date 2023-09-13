@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on data visualization<br>I'm currently learning the machine learning
+I'm data analyst<br>
 
 
 # 💻 Tech Stack:
