@@ -1,5 +1,7 @@
 # 💫 About Me:
 I'm data analyst<br>
+Currently, making my hand dirty in machine learning<br>
+Exploring the data visualization in power BI<br>
 
 
 # 💻 Tech Stack:
