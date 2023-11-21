@@ -1,18 +1,33 @@
-# 💫 About Me:
-I'm data analyst<br>
-Currently, making my hand dirty in machine learning<br>
-Exploring the data visualization in power BI<br>
+<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hola!!+I'm+Vedant+Salunkhe;I'm+an+aspiring+Data+Scientist" alt="Typing SVG" /></a></H1>
 
+<img align='right' width="400" alt='logo' src='logo.png'>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vedant550&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant550&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant550&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- ✍ You can find my projects here <a href = 'https://www.kaggle.com/vedantsal'>Kaggle</a>
+- 🔭 I’m currently working on upgrading my skills.
+- 🌱 I’m currently learning Data Scientists
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about soft skills
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I'm very happy!! :)
 
----
-[![](https://visitcount.itsvg.in/api?id=Vedant550&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>I'm an aspiring Data Scientist with a strong background in statistical modeling, machine learning, and data analysis. Proficient in programming languages such as Python, R, and SQL with experience in developing data-driven solutions to complex business problems.</p>
+
+<p>For me, finding insights is love...📈</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vedant550&theme=tokyonight&title_color=fca311&text_color=ffbf69">
+
+<h3 align="left">Talk with me!! I'm kinda awesome:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vedantsalunkhe550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti-tiwari-6a99b9202" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/vedantsal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shrishti" height="30" width="40" /></a>
+<a href="https://instagram.com/mr_vedu_55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=".dreamycloud.04" height="30" width="40" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrishti-04&layout=compact)](https://github.com/shrishti-04/github-readme-stats)
 
 
 
