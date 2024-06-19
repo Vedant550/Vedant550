@@ -1,18 +1,7 @@
-<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hola!!+I'm+Vedant+Salunkhe;I'm+an+aspiring+Data+Scientist" alt="Typing SVG" /></a></H1>
+<H1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&width=435&lines=Hola!!+I'm+Vedant+Salunkhe;I'm+an+aspiring+Java+Developer" alt="Typing SVG" /></a></H1>
 
 <img align='right' width="400" alt='logo' src='logo.png'>
 
-- ✍ You can find my projects here <a href = 'https://www.kaggle.com/vedantsal'>Kaggle</a>
-- 🔭 I’m currently working on upgrading my skills.
-- 🌱 I’m currently learning Data Scientists
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about soft skills
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm very happy!! :)
-
-<p>I'm an aspiring Data Scientist with a strong background in statistical modeling, machine learning, and data analysis. Proficient in programming languages such as Python, R, and SQL with experience in developing data-driven solutions to complex business problems.</p>
-
-<p>For me, finding insights is love...📈</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vedant550&theme=tokyonight&title_color=fca311&text_color=ffbf69">
 
